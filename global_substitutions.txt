@@ -1,0 +1,2 @@
+.. |get_source_cmd| replace:: git clone git@bitbucket.org:derivepower/j2534.git 
+.. |project_name| replace:: J2534
